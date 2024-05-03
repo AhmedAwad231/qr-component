@@ -34,7 +34,8 @@ main{
 .card .text{
     text-align: center;
 }
-.card .text h2{
+.card .text h1{
+    font-size:20px;
     margin: 15px 0;
     color: var(--Dark-blue);
 }
