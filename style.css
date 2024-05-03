@@ -19,7 +19,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-.container{
+.main{
     max-width: 360px;
 }
 .card{
